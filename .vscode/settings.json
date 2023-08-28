@@ -1,0 +1,16 @@
+{
+    "json.format.keepLines": false,
+    "json.schemas": [
+        
+    ],
+    "emmet.includeLanguages": {
+        "javascript-html": "html"
+    },
+    "emmet.preferences": {
+        
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+}
